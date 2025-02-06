@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">Newsync</string>
+    <string name="web_client_id" translatable="false">721973865581-qntkfueekaqmad1ohf9iqoh156d4trs0.apps.googleusercontent.com</string>
+    <string name="facebook_app_id" translatable="false">1234018664367566</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb1234018664367566</string>
+    <string name="facebook_client_token" translatable="false">ab4629585bf075d092a96b10738da4b4</string>
+    <string name="desc_avatar" translatable="false">Avatar</string>
+
+    <string name="language_english">English</string>
+    <string name="language_hindi">Hindi</string>
+    <string name="about_title">About Newsync</string>
+    <string name="feature_realtime_updates_title">Real-time News Updates</string>
+    <string name="feature_realtime_updates_description">Stay informed with the latest news from around the world, updated in real-time.</string>
+    <string name="feature_multilingual_support_title">Multilingual Support</string>
+    <string name="feature_multilingual_support_description">Access news in multiple languages, breaking down communication barriers.</string>
+    <string name="feature_chat_title">Interactive Chat Feature</string>
+    <string name="feature_chat_description">Engage with other readers, share insights, and discuss news stories in real-time.</string>
+    <string name="mission_title">Our Mission</string>
+    <string name="mission_description">Newsync aims to provide a seamless, interactive news experience that connects people through information, breaking down language and geographical barriers.</string>
+    <string name="version_info">Version 1.0.0</string>
+
+</resources>

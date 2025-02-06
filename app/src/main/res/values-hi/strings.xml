@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language_english">अंग्रेज़ी</string>
+    <string name="language_hindi">हिंदी</string>
+    <string name="about_title">न्यूसिंक के बारे में</string>
+    <string name="feature_realtime_updates_title">रियल-टाइम समाचार अपडेट</string>
+    <string name="feature_realtime_updates_description">दुनिया भर से नवीनतम समाचारों के साथ अद्यतन रहें, जो रियल-टाइम में अपडेट होते हैं।</string>
+    <string name="feature_multilingual_support_title">बहुभाषीय समर्थन</string>
+    <string name="feature_multilingual_support_description">कई भाषाओं में समाचार प्राप्त करें, संचार की बाधाओं को तोड़ते हुए।</string>
+    <string name="feature_chat_title">इंटरएक्टिव चैट फीचर</string>
+    <string name="feature_chat_description">अन्य पाठकों के साथ संवाद करें, विचार साझा करें, और रियल-टाइम में समाचार कहानियों पर चर्चा करें।</string>
+    <string name="mission_title">हमारा मिशन</string>
+    <string name="mission_description">न्यूसिंक एक सहज, इंटरएक्टिव समाचार अनुभव प्रदान करने का प्रयास करता है, जो सूचना के माध्यम से लोगों को जोड़ता है और भाषा और भौगोलिक बाधाओं को तोड़ता है।</string>
+    <string name="version_info">संस्करण 1.0.0</string>
+</resources>

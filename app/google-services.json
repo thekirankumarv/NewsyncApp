@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "721973865581",
+    "project_id": "newsync-app",
+    "storage_bucket": "newsync-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721973865581:android:32978061ddc33bb06d6364",
+        "android_client_info": {
+          "package_name": "com.thekirankumarv.newsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721973865581-ebj454mh04qrkdln0k1jrvtb7jgbj6f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thekirankumarv.newsync",
+            "certificate_hash": "791991050ed20a28520582ecf8287a1d54652778"
+          }
+        },
+        {
+          "client_id": "721973865581-qntkfueekaqmad1ohf9iqoh156d4trs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlkBl2nbd3sEl4UayRDFlqA44-pwEoqi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721973865581-qntkfueekaqmad1ohf9iqoh156d4trs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
