@@ -11,7 +11,7 @@
 | ✨ **Shimmer Effect** | Smooth loading placeholders for enhanced UX. |
 | ☁️ **S3 Cloud Storage** | Efficient media uploads using signed URLs. |
 | 🔐 **Biometric Authentication** | Secure access with fingerprint or face recognition. |
-| 🔔 **Push Notifications** | Stay updated with breaking news alerts. |
+| 🔔 **Local Notifications** | Welcome Message. |
 | 🌍 **Localization** | Multi-language support for a global audience. |
 | 💬 **Real-time Chat** | Instant messaging powered by Firestore. |
 | 🖼 **Profile Management** | Edit and update user details seamlessly. |
@@ -23,8 +23,7 @@
 - **Authentication**: Firebase (Google & Facebook Login)  
 - **Database**: Firebase Firestore  
 - **Storage**: AWS S3  
-- **Networking**: Retrofit, OkHttp  
-- **State Management**: MVI Clean Architecture  
+- **Networking**: Retrofit, OkHttp    
 - **Push Notifications**: Firebase Cloud Messaging (FCM)  
 - **Dependency Injection**: Hilt  
 
