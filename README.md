@@ -39,6 +39,6 @@
    - Set `S3_UPLOAD_URL` and `S3_SIGNED_URL` for AWS S3 uploads.  
 3. Run the project in Android Studio.  
 
-## 📸 Screenshots  
+
 
 
